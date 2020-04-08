@@ -7,13 +7,13 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue';
-import { defineComponent, ref } from '@vue/composition-api';
+import Vue from 'vue'
+import { defineComponent, ref } from '@vue/composition-api'
 
 export default defineComponent({
   setup(props, { root }) {
     // @ts-ignore
-    const version = ref<string>(root.$page.app.laravel);
+    const version = ref<string>(root.$page.app.version)
 
     return {
       version,
