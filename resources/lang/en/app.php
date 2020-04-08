@@ -8,7 +8,7 @@ return [
     */
 
     'welcome' => [
-        'title'    => 'Laravel Boilerplate',
-        'subtitle' => 'For Laravel :version',
+        'title'    => 'Sharx HR',
+        'subtitle' => 'For Sharx HR :version',
     ],
 ];
