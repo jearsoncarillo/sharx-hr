@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/sharxcode/sharx-hr">
     <img src=".doc/logo.png?raw=true" />
   </a>  
