@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sharxcode/sharx-hr">
-    <img src=".doc/logo.png?raw=true" />
+    <img src="public/logo.png?raw=true" />
   </a>  
 </p>
 
