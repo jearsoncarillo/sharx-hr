@@ -11,27 +11,27 @@
 <a href="https://laravel.com"><img src="https://img.shields.io/badge/Powered%20By-Laravel-red.svg?style=for-the-badge&logo=laravel" alt="SharxCode"></a>
 </p>
 
-# Sharx HR
+## Sharx HR
 
 > Sharx HR is a free open source human resource management software designed for small to medium companies created by SharxCode Team
 
-### Development Status
+## Development Status
 > Development still in progress
 
-### Technology Stack
+## Technology Stack
 - [Laravel 7](https:://laravel.com)
 - [VueJS](https://vuejs.org)
 - [Tailwind CSS](https://tailwindcss.com)
 - [InertiaJS](https://inertiajs.com)
 - [TypeScript](https://www.typescriptlang.org)
 
-### Structure
+## Structure
 - [Domain-oriented hierarchy](https://stitcher.io/blog/laravel-beyond-crud-01-domain-oriented-laravel) from [Brent's Laravel Beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)
 
-### Installation
+## Installation
 > TODO
 
-### Server Requirements
+## Server Requirements
 - PHP >= 7.2.5
 - BCMath PHP Extension
 - Ctype PHP Extension
@@ -43,26 +43,26 @@
 - Tokenizer PHP Extension
 - XML PHP Extension
 
-### Code of Conduct
+## Code of Conduct
 
 In order to ensure that the Sharx HR community is welcoming to all, please review and abide by the [Code of Conduct](./code-of-conduct.md)
 
-### Security Vulnerabilities
+## Security Vulnerabilities
 If you discover a security vulnerability within Laravel, please use the issue tracker to submit. All security vulnerabilities will be promptly addressed.
 
-### Support Sharx HR
+## Support Sharx HR
 > Todo
 
-### Authors
+## Authors
 - Ian Vizarra ([@ianvizarra](https://github.com/ianvizarra))
 - CJ Calalang ([@chriscalalang](https://github.com/chriscalalang))
 - Mel Bulan ([@melbulan](https://github.com/melbulan))
 - Jearson Carillo ([@jearsoncarillo](https://github.com/jearsoncarillo))
 - Brian Calma ([@briancalma](https://github.com/briancalma))
-### Credits
+## Credits
 - [Haew](https://github.com/hawezo)
 
-### License
+## License
 The Sharx HR is open-sourced software under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0)
 
 ---
